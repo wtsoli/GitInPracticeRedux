@@ -5,3 +5,6 @@ Add opening joke. Funny? 4
 Add opening joke. Funny? 5
 
 Add opening joke. Funny? 1 for branch master&chapter-two on master for conflict resolved
+
+
+add something for conflict 2nd
