@@ -1,10 +1,4 @@
-Add opening joke. Funny? 1
-Add opening joke. Funny? 2
-Add opening joke. Funny? 3
-Add opening joke. Funny? 4
-Add opening joke. Funny? 5
-
-Add opening joke. Funny? 1 for branch master&chapter-two on master for conflict resolved
-
-
-add something for conflict 2nd
+## Chapter 1
+It is a truth universally acknowledged, that a single person in
+possession of good source code, must be in want of a version control
+system.
